@@ -1,0 +1,43 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+.NOTE{
+    font-size:15px;
+    color:firebrick;
+    font-weight: bold;
+}
+body{
+    background-size:cover;
+}
+.div_botw{
+    float:left;
+
+}
+.div_fly{
+    float:right;
+    
+}
+.div_fly_img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+
+#botw,#fly{
+    font-size:20px;
+    margin:15px;
+   
+}
+
+.div_botw_img{
+    border-radius: 60%;
+    height:200px;
+    width:200px;
+}
+
+canvas{
+    border:5px solid cyan;
+    border-radius: 30%;
+}
